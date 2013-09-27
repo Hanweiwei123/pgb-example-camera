@@ -19,8 +19,8 @@
     <preference name="phonegap-version" value="3.0.0" /> 
     <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
 
-    
-    <gap:plugin name="com.phonegap.plugins.barcodescanner" />
+    <gap:plugin name="org.apache.cordova.core.contacts" />
     <!--<gap:plugin name="org.apache.cordova.core.camera" />
+    <gap:plugin name="com.phonegap.plugins.barcodescanner" />
     <gap:plugin name="com.phonegap.plugins.childbrowser" /> -->
 </widget>
