@@ -17,7 +17,7 @@
     </author>
 
     <preference name="phonegap-version" value="3.0.0" /> 
-    <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize我的" />
+    <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
 
     <gap:plugin name="org.apache.cordova.core.contacts" />
     <gap:plugin name="org.apache.cordova.core.camera" />
