@@ -20,7 +20,9 @@
     <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize我的" />
 
     <gap:plugin name="org.apache.cordova.core.contacts" />
-    <!--<gap:plugin name="org.apache.cordova.core.camera" />
+    <gap:plugin name="org.apache.cordova.core.camera" />
+    <gap:plugin name="com.phonegap.plugins.childbrowser" />
+    <!--
     <gap:plugin name="com.phonegap.plugins.barcodescanner" />
-    <gap:plugin name="com.phonegap.plugins.childbrowser" /> -->
+     -->
 </widget>
