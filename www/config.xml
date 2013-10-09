@@ -6,10 +6,10 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Camera App</name>
+    <name>Camera App相机应用</name>
 
     <description>
-        Camera example app.
+        Camera example app照相机应用.
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
