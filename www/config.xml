@@ -6,7 +6,7 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Camera App相机应用</name>
+    <name>Camera App Test</name>
 
     <description>
         Camera example app照相机应用.
